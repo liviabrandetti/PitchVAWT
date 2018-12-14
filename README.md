@@ -1,0 +1,2 @@
+# PitchVAWT
+Low-fidelity model
